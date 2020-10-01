@@ -1,2 +1,3 @@
 # Haktoberfest20
-Add power function in math file.
+//Add power function in math file.
+DONE
